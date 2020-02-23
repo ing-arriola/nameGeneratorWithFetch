@@ -39,3 +39,13 @@ form {
     border: 1px solid rgb(17, 202, 73); 
     background: rgb(98, 218, 134); 
 }
+
+.danger {
+    list-style: none;
+    width: 87%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    color: white;
+    background: rgb(179, 32, 32); 
+}

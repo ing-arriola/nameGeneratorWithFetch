@@ -29,3 +29,13 @@ form {
 .lista li:last-child{
     margin:0;
 }
+
+.success {
+    list-style: none;
+    width: 87%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid rgb(17, 202, 73); 
+    background: rgb(98, 218, 134); 
+}
